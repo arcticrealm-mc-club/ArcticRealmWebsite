@@ -1,0 +1,7 @@
+
+@font-face {
+	font-family: 'Bebas';
+	src: url('fonts/Bebas/regular.eot');
+	src: url('fonts/Bebas/fonts/Bebas/regular.eot') format('embedded-opentype'),
+			url('fonts/Bebas/regular.ttf') format('truetype');
+}
